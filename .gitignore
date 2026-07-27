@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---------------------------------------------------------------- wahlwerk ---
+
+# Bulk election data is never committed here. It lives in the wahlwerk-data
+# repository, which records each source's URL and SHA-256 so a bundle is
+# reproducible without the multi-megabyte original. Small, clearly sourced
+# fixtures under tests/golden/ are the exception, and are committed.
+/data/
+
+# Personal editor and tool state. .vscode/settings.json here pins a machine's
+# Python environment manager; .claude/settings.local.json is one person's
+# permission allowlist. Neither belongs to anyone else. A shared
+# .claude/settings.json is deliberately still tracked.
+.vscode/
+.claude/settings.local.json

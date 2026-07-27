@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: wahlwerk
+abstract: >-
+  A deterministic engine for German electoral and parliamentary systems, modelled as
+  rules-as-code: an electoral law decomposes into six orthogonal, independently
+  replaceable components, so that counterfactual variants of the law can be evaluated
+  against real historical votes.
+type: software
+authors:
+  - family-names: Sommer
+    given-names: Julius
+    email: julius_sommer@mailbox.org
+version: 0.1.0
+license: Apache-2.0
+keywords:
+  - electoral systems
+  - apportionment
+  - Germany
+  - Bundestag
+  - rules as code
+  - computational social science

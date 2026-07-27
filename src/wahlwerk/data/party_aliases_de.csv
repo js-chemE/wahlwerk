@@ -1,0 +1,88 @@
+party,source,key
+cdu,bundeswahlleiterin.gruppe,1
+spd,bundeswahlleiterin.gruppe,2
+gruene,bundeswahlleiterin.gruppe,3
+linke,bundeswahlleiterin.gruppe,4
+afd,bundeswahlleiterin.gruppe,5
+csu,bundeswahlleiterin.gruppe,6
+fdp,bundeswahlleiterin.gruppe,7
+fw,bundeswahlleiterin.gruppe,8
+piraten,bundeswahlleiterin.gruppe,9
+tierschutzpartei,bundeswahlleiterin.gruppe,10
+oedp,bundeswahlleiterin.gruppe,13
+partei,bundeswahlleiterin.gruppe,14
+bueso,bundeswahlleiterin.gruppe,17
+bp,bundeswahlleiterin.gruppe,18
+mlpd,bundeswahlleiterin.gruppe,23
+sgp,bundeswahlleiterin.gruppe,25
+uebrige,bundeswahlleiterin.gruppe,28
+verjuengungsforschung,bundeswahlleiterin.gruppe,41
+volt,bundeswahlleiterin.gruppe,44
+pdh,bundeswahlleiterin.gruppe,45
+menschliche-welt,bundeswahlleiterin.gruppe,46
+mera25,bundeswahlleiterin.gruppe,51
+team-todenhoefer,bundeswahlleiterin.gruppe,53
+buendnis-c,bundeswahlleiterin.gruppe,58
+ssw,bundeswahlleiterin.gruppe,59
+diebasis,bundeswahlleiterin.gruppe,63
+bsw,bundeswahlleiterin.gruppe,64
+pdf,bundeswahlleiterin.gruppe,67
+buendnis-deutschland,bundeswahlleiterin.gruppe,72
+werteunion,bundeswahlleiterin.gruppe,83
+cdu,bundeswahlleiterin.name,CDU
+spd,bundeswahlleiterin.name,SPD
+gruene,bundeswahlleiterin.name,GRÜNE
+linke,bundeswahlleiterin.name,Die Linke
+afd,bundeswahlleiterin.name,AfD
+csu,bundeswahlleiterin.name,CSU
+fdp,bundeswahlleiterin.name,FDP
+fw,bundeswahlleiterin.name,FREIE WÄHLER
+ssw,bundeswahlleiterin.name,SSW
+bsw,bundeswahlleiterin.name,BSW
+volt,bundeswahlleiterin.name,Volt
+oedp,bundeswahlleiterin.name,ÖDP
+partei,bundeswahlleiterin.name,Die PARTEI
+tierschutzpartei,bundeswahlleiterin.name,Tierschutzpartei
+piraten,bundeswahlleiterin.name,PIRATEN
+mlpd,bundeswahlleiterin.name,MLPD
+bp,bundeswahlleiterin.name,BP
+bueso,bundeswahlleiterin.name,BüSo
+sgp,bundeswahlleiterin.name,SGP
+diebasis,bundeswahlleiterin.name,dieBasis
+mera25,bundeswahlleiterin.name,MERA25
+team-todenhoefer,bundeswahlleiterin.name,Team Todenhöfer
+buendnis-c,bundeswahlleiterin.name,Bündnis C
+buendnis-deutschland,bundeswahlleiterin.name,BÜNDNIS DEUTSCHLAND
+werteunion,bundeswahlleiterin.name,WerteUnion
+pdh,bundeswahlleiterin.name,PdH
+pdf,bundeswahlleiterin.name,PdF
+menschliche-welt,bundeswahlleiterin.name,MENSCHLICHE WELT
+verjuengungsforschung,bundeswahlleiterin.name,Verjüngungsforschung
+uebrige,bundeswahlleiterin.name,Übrige
+gruene,common,BÜNDNIS 90/DIE GRÜNEN
+gruene,common,B90/GRÜNE
+gruene,common,Bündnis 90/Die Grünen
+gruene,common,GRUENE
+gruene,common,Grüne
+linke,common,DIE LINKE
+linke,common,LINKE
+linke,common,PDS
+linke,common,Die Linke.
+afd,common,Alternative für Deutschland
+fw,common,Freie Wähler
+fw,common,FREIE WÄHLER Bundesvereinigung
+ssw,common,Südschleswigscher Wählerverband
+bsw,common,Bündnis Sahra Wagenknecht - Vernunft und Gerechtigkeit
+partei,common,PARTEI
+cdu,common,CDU Deutschlands
+csu,common,CSU in Bayern
+dp,bundeswahlleiterin.name,DP
+kpd,bundeswahlleiterin.name,KPD
+wav,bundeswahlleiterin.name,WAV
+zentrum,bundeswahlleiterin.name,Zentrum
+gb-bhe,bundeswahlleiterin.name,GB/BHE
+dkp-drp,bundeswahlleiterin.name,DKP/DRP
+andere-kwv,bundeswahlleiterin.name,Andere KWV
+gruene,bundeswahlleiterin.name,B90/Gr
+gruene,common,BÜNDNIS 90/GRÜNE
+gruene,common,B90/GR

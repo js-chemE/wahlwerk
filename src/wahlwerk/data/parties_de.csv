@@ -1,0 +1,38 @@
+id,name,short_name,tags
+cdu,Christlich Demokratische Union Deutschlands,CDU,
+csu,Christlich-Soziale Union in Bayern,CSU,regional
+spd,Sozialdemokratische Partei Deutschlands,SPD,
+gruene,BÜNDNIS 90/DIE GRÜNEN,GRÜNE,
+linke,Die Linke,Die Linke,
+afd,Alternative für Deutschland,AfD,
+fdp,Freie Demokratische Partei,FDP,
+bsw,Bündnis Sahra Wagenknecht,BSW,
+fw,FREIE WÄHLER,FREIE WÄHLER,
+ssw,Südschleswigscher Wählerverband,SSW,national_minority regional
+volt,Volt Deutschland,Volt,
+oedp,Ökologisch-Demokratische Partei,ÖDP,
+piraten,Piratenpartei Deutschland,PIRATEN,
+tierschutzpartei,Partei Mensch Umwelt Tierschutz,Tierschutzpartei,
+partei,Die PARTEI,Die PARTEI,
+mlpd,Marxistisch-Leninistische Partei Deutschlands,MLPD,
+bp,Bayernpartei,BP,regional
+bueso,Bürgerrechtsbewegung Solidarität,BüSo,
+sgp,Sozialistische Gleichheitspartei,SGP,
+diebasis,dieBasis,dieBasis,
+mera25,MERA25,MERA25,
+team-todenhoefer,Team Todenhöfer,Team Todenhöfer,
+buendnis-c,Bündnis C,Bündnis C,
+buendnis-deutschland,BÜNDNIS DEUTSCHLAND,BÜNDNIS DEUTSCHLAND,
+werteunion,WerteUnion,WerteUnion,
+pdh,Partei der Humanisten,PdH,
+pdf,PdF,PdF,
+menschliche-welt,MENSCHLICHE WELT,MENSCHLICHE WELT,
+verjuengungsforschung,Verjüngungsforschung,Verjüngungsforschung,
+uebrige,Übrige,Übrige,aggregate
+dp,Deutsche Partei,DP,
+kpd,Kommunistische Partei Deutschlands,KPD,
+wav,Wirtschaftliche Aufbau-Vereinigung,WAV,
+zentrum,Deutsche Zentrumspartei,Zentrum,
+gb-bhe,Gesamtdeutscher Block/Bund der Heimatvertriebenen und Entrechteten,GB/BHE,
+dkp-drp,Deutsche Konservative Partei/Deutsche Rechtspartei,DKP/DRP,
+andere-kwv,Andere Kreiswahlvorschläge,Andere KWV,aggregate
